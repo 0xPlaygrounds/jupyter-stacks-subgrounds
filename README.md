@@ -1,5 +1,7 @@
 # Jupyter Stacks - Datascience Image
 
+🛑🛑This is an experimental repository. It might change or be deleted without notice!🛑🛑
+
 This repository contains a Dockerfile that simply pulls from the
 [Jupyter Stacks Datascience Image](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-datascience-notebook).
 It is meant to prototype Binder functionality that separates the environment
