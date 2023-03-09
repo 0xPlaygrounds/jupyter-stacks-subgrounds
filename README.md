@@ -1,11 +1,8 @@
-# Jupyter Stacks - Datascience Image
+# Jupyter Stacks - Subgrounds Image
+> An environment stack to be used with Binder
 
-🛑🛑This is an experimental repository. It might change or be deleted without notice!🛑🛑
+This repo contains **environment** details (Dockerfile) to be used alongside a separate **content** repo (via the [nbtgitpuller](https://hub.jupyter.org/nbgitpuller/link?tab=binder&branch=main&repo=https://github.com/0xPlaygrounds/jupyter-stacks-subgrounds) project).
 
-This repository contains a Dockerfile that simply pulls from the
-[Jupyter Stacks Datascience Image](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-datascience-notebook).
-It is meant to prototype Binder functionality that separates the environment
-repository from the content repository.
+Based on: [Jupyter Stacks Datascience Image](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-datascience-notebook).
 
-See [this Discourse post](https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956/16?u=choldgraf)
-for more information.
+See [this Discourse post](https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956/16?u=choldgraf) for more information.
