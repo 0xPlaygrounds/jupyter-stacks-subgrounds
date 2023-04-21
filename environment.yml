@@ -1,9 +1,0 @@
-name: subgrounds-environment
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - pip
-  - pip:
-    - nbgitpuller
-    - subgrounds[dash]
