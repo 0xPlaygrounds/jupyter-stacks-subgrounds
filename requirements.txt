@@ -1,2 +1,2 @@
 nbgitpuller
-subgrounds[dash]
+subgrounds[all]
